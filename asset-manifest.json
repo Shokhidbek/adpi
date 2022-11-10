@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6308411a.css",
+    "main.js": "/static/js/main.c279de40.js",
+    "static/media/silder1.JPG": "/static/media/silder1.6171b1d8c22119fc7ba6.JPG",
+    "static/media/silder2.JPG": "/static/media/silder2.3952695e5cec64fb77e7.JPG",
+    "static/media/inner-banner.png": "/static/media/inner-banner.f0b909c97616aff34e6f.png",
+    "index.html": "/index.html",
+    "main.6308411a.css.map": "/static/css/main.6308411a.css.map",
+    "main.c279de40.js.map": "/static/js/main.c279de40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6308411a.css",
+    "static/js/main.c279de40.js"
+  ]
+}
